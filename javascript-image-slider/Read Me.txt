@@ -1,4 +1,4 @@
-Project Name : Gussing Game.
+Project Name : Javascript Image Slider.
 Project Language : Html,css,javascript.
 Developer Info : 
 Md. Nur Sami Noman
